@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicholaspmccarty
 - 👀 I’m interested in solving complex algorithims and web development.
-- 🌱 I’m currently learning at Miami University and studying Computer Science
+- 🌱 I’m currently Studying at Miami University. I'm currently focusing on Operating Systems and React.JS.
 - 📫 nicholasmccarty252@gmail.com
 
 <!---
