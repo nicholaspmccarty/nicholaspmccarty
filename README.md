@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicholaspmccarty
 - 👀 I’m interested in solving complex algorithims and general coding activities. I taught myself how to code in 10th grade.
-- 🌱 I’m currently Studying at Miami University. I just learned Node.js! 
+- 🌱 I’m currently Studying at Miami University. I just learned React.js! 
 - 📫 nicholasmccarty252@gmail.com
 
 <!---
